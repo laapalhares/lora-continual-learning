@@ -34,7 +34,6 @@ share/python-wheels/
 # Model Checkpoints & Output Directories
 checkpoints/
 output/
-outputs/
 full_ft_*/
 lora_ft_*/
 cf_train_*/

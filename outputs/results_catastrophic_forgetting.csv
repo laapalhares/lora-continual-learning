@@ -1,0 +1,3 @@
+Method,Initial Accuracy (Task A),Final Accuracy (Task A),Final F1-Macro (Task A),Adaptation Accuracy (Task B),Adaptation F1-Macro (Task B),Absolute Forgetting,Loss (%)
+LoRA (r=32),0.878,0.854,0.8554,0.824,0.824,0.024,2.73
+Full Fine-Tuning,0.89,0.858,0.858,0.842,0.842,0.032,3.6

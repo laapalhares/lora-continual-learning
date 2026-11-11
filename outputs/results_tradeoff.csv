@@ -1,0 +1,6 @@
+Method,r,Accuracy,F1-Macro,Time (s),Trainable Parameters,% Trainable
+Full Fine-Tuning,N/A,0.89,0.8906,53.97,66956548,100.0
+LoRA,4,0.866,0.8672,38.06,667396,1.0
+LoRA,8,0.864,0.8654,35.51,741124,1.11
+LoRA,16,0.868,0.8691,37.67,888580,1.33
+LoRA,32,0.878,0.879,36.88,1183492,1.77
